@@ -26,4 +26,4 @@ message.channel.send(embed);
   }
 });
 
-client.login('TOKEN');
+client.login('Njk4MjA4ODM0Njg2Mjg3OTYy.XpEOvQ.PBWmqTIzEuNSaCA8l8bYsuVOqLU');
